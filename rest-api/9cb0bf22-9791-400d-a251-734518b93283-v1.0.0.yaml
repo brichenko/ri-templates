@@ -1,0 +1,24 @@
+# Шаблон артефакта
+# Определите структуру вашего шаблона
+
+name: rest-api-template
+version: 1.0.0
+
+metadata:
+  description: Шаблон описывает требования к REST API
+  author: ""
+  openapi: 3.0.3
+
+spec:
+  # Добавьте спецификацию здесь
+info:
+  title: API
+  version: 1.0.0
+
+paths:
+  /{1}:
+    get:
+      responses:
+        '200':
+          description: ""
+
