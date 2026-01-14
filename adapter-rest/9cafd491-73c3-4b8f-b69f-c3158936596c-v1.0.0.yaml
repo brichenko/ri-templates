@@ -1,0 +1,13 @@
+# Шаблон артефакта
+# Определите структуру вашего шаблона
+
+name: example-template
+version: 1.0.0
+
+metadata:
+  description: Описание шаблона
+  author: ""
+
+spec:
+  # Добавьте спецификацию здесь
+  URI: ""
